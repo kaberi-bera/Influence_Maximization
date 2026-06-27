@@ -132,12 +132,12 @@ Each file contains:
 
 ## 👩‍💻 Authors
 
-Kaberi Bera
+* Kaberi Bera
 
 Supervisor:
 
 * Dr. Arnab Kumar Ghoshal
-  Assistant Professor
+   ,Assistant Professor
   Department of Computer Science, Asutosh College
   
 Project Partners:
